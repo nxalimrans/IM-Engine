@@ -1,0 +1,94 @@
+{
+  "tools": [
+    {
+      "id": 1,
+      "name": "AI Chat",
+      "category": "AI",
+      "description": "Chat with AI.",
+      "developer": "Official",
+      "video": "https://youtube.com/...",
+      "download": "https://raw.githubusercontent.com/.../tools/ai.imp"
+    },
+    {
+      "id": 2,
+      "name": "Image Generator",
+      "category": "AI",
+      "description": "Generate AI images.",
+      "developer": "IM AL IMRAN S",
+      "video": "https://youtube.com/...",
+      "download": "https://raw.githubusercontent.com/.../tools/image.imp"
+    },
+    {
+      "id": 3,
+      "name": "Voice Assistant",
+      "category": "AI",
+      "description": "Talk with AI using voice.",
+      "developer": "Official",
+      "video": "https://youtube.com/...",
+      "download": "https://raw.githubusercontent.com/.../tools/voice.imp"
+    },
+    {
+      "id": 4,
+      "name": "QR Scanner",
+      "category": "Utility",
+      "description": "Scan QR and barcodes.",
+      "developer": "Official",
+      "video": "https://youtube.com/...",
+      "download": "https://raw.githubusercontent.com/.../tools/qr.imp"
+    },
+    {
+      "id": 5,
+      "name": "File Encryptor",
+      "category": "Security",
+      "description": "Encrypt your files.",
+      "developer": "Official",
+      "video": "https://youtube.com/...",
+      "download": "https://raw.githubusercontent.com/.../tools/encrypt.imp"
+    },
+    {
+      "id": 6,
+      "name": "File Decryptor",
+      "category": "Security",
+      "description": "Decrypt encrypted files.",
+      "developer": "Official",
+      "video": "https://youtube.com/...",
+      "download": "https://raw.githubusercontent.com/.../tools/decrypt.imp"
+    },
+    {
+      "id": 7,
+      "name": "Python Runner",
+      "category": "Development",
+      "description": "Run Python projects.",
+      "developer": "Official",
+      "video": "https://youtube.com/...",
+      "download": "https://raw.githubusercontent.com/.../tools/python.imp"
+    },
+    {
+      "id": 8,
+      "name": "JSON Viewer",
+      "category": "Development",
+      "description": "View and format JSON.",
+      "developer": "Official",
+      "video": "https://youtube.com/...",
+      "download": "https://raw.githubusercontent.com/.../tools/json.imp"
+    },
+    {
+      "id": 9,
+      "name": "Password Generator",
+      "category": "Utility",
+      "description": "Generate secure passwords.",
+      "developer": "Official",
+      "video": "https://youtube.com/...",
+      "download": "https://raw.githubusercontent.com/.../tools/password.imp"
+    },
+    {
+      "id": 10,
+      "name": "Network Scanner",
+      "category": "Networking",
+      "description": "Scan local network devices.",
+      "developer": "Official",
+      "video": "https://youtube.com/...",
+      "download": "https://raw.githubusercontent.com/.../tools/network.imp"
+    }
+  ]
+}
